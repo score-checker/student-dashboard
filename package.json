@@ -1,0 +1,9 @@
+{
+  "name": "student-dashboard-frontend",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A local frontend recreation of a student dashboard",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
